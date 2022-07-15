@@ -1,21 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Coronavirus cases tracking app"
-    />
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <title>COVID-19 Cases</title>
+This project was bootstrapped with Create React App. This is a good project for you to learn about react.
 
-  </head>
-  <body>
-    
-    <div id="root"></div>
+Click Here to view the live app.
 
-  </body>
-</html>
+Available Scripts
+In the project directory, you can run:
+
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+npm test
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
